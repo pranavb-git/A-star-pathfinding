@@ -3,6 +3,8 @@ A* Pathfinding algorithm implemented in Python and visualisation through pygame
 
 Run the main.py file on IDE with an interpreter having **_pygame_** (preferably Python **3.10**)
 
+
+
 First click marks the cell to be **Source** point and Second click marks the cell to be **Destination** point 
 
 <img width="300" alt="1" src="https://github.com/pranavb-git/A-star-pathfinding/assets/121572703/9970344a-f3ee-4195-b588-42275608b568"> <img width="300" alt="2" src="https://github.com/pranavb-git/A-star-pathfinding/assets/121572703/96dddb17-c351-457a-80ce-43a5302d17e3">
@@ -22,9 +24,12 @@ Once the destination is reached, We reconstruct the path and mark the path in Vi
 
 <img width="300" alt="8" src="https://github.com/pranavb-git/A-star-pathfinding/assets/121572703/82c7dab4-4c04-4e1a-900c-eadeea7585a7">
 
-Press **C** to clear the board and Press **R** to reset,i.e. Clear the board retaining the Source and Destination along with the Barriers
+Press **C** to clear the board
+Press **R** to reset,i.e. Clear the board retaining the Source and Destination along with the Barriers
 
 <img width="300" alt="3" src="https://github.com/pranavb-git/A-star-pathfinding/assets/121572703/4ab6f791-d62a-49e0-bb53-e551749df30c">
 
+
+Grid size is set to be 40 x 40 . We can change the size of grid by changing the value of ROWS to desired value which is a factor of 800.
 
 Thank You
