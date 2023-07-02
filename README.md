@@ -1,7 +1,7 @@
 # A-star-pathfinding
 A* Pathfinding algorithm implemented in Python and visualisation through pygame
 
-Run the main.py file on IDE with an interpreter having **_pygame_** (preferably Python **3.10**)
+Run the main.py file on an IDE with an interpreter having **_pygame_** (preferably Python **3.10**)
 
 A* achieves better performance by using heuristics to guide its search.
 more about A* on wiki : https://en.wikipedia.org/wiki/A*_search_algorithm
@@ -32,5 +32,3 @@ Press **R** to reset,i.e. Clear the board retaining the Source and Destination a
 
 
 Grid size is set to be 40 x 40 . We can change the size of grid by changing the value of ROWS to desired value which is a factor of 800.
-
-Thank You
